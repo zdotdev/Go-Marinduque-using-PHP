@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<places>
+    <municipality id="Boac">
+        <place >
+            <name>Balar Hotel and Spa</name>
+            <location>Brgy. Balaring,Boac</location>
+            <description>Balar Hotel and Spa has a garden, terrace, a restaurant and bar in Boac. The accommodation features a 24-hour front desk, airport transfers, room service and free WiFi.At the hotel, rooms include a desk, a flat-screen TV, a private bathroom, bed linen and towels. Every room includes a safety deposit box, while certain rooms have a balcony and others also boast garden views. The rooms will provide guests with a wardrobe and a kettle.A buffet, à la carte or continental breakfast can be enjoyed at the property.The nearest airport is Marinduque Airport, 6 km from Balar Hotel and Spa.</description>
+            <image>images/balar.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Honey Bee</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Lex</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+            <name>Marina Marinduque Hoteland Resort</name>
+            <location>Brgy. Balaring,Boac</location>
+            <description>MARINA MARINDQUE HOTEL AND RESORT is offering accommodation in Boac. Featuring room service, this property also welcomes guests with a restaurant and a terrace. There is a year-round outdoor pool and guests can make use of free WiFi and free private parking.All rooms come with air conditioning, a desk and a flat-screen TV, and certain units at the hotel have a balcony. At MARINA MARINDQUE HOTEL AND RESORT every room comes with bed linen and towels.American and Asian breakfast options are available every morning at the accommodation.The nearest airport is Marinduque Airport, 6 km from MARINA MARINDQUE HOTEL AND RESORT.</description>
+            <image>images/marina.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Xander</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Alice </alias>
+                    <rate>5 stars</rate>
+                    <comment>Excellent</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+                <name>Nine Balconies Island Stay</name>
+                <location>Brgy. Ihatub</location>
+                <description>Nine Balconies Island Stay is set in Boac and features a bar. The inn also offers free WiFi and free private parking.At the inn, the rooms are fitted with a balcony. Featuring a private bathroom with a bidet and free toiletries, rooms at Nine Balconies Island Stay also provide guests with a city view. At the accommodation every room has air conditioning and a flat-screen TV.Guests at Nine Balconies Island Stay can enjoy an Asian breakfast.Staff at the inn are available to provide information at the 24-hour front desk.The nearest airport is Marinduque Airport, 11 km from Nine Balconies Island Stay.</description>
+                <image>images/nine.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Xandra</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>LISHA</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+            <name>Hotel Zenturia</name>
+            <location>Isok, Boac</location>
+            <description>It has terrace, a restaurant and bar. The accommodation features a 24-hour front desk, airport transfers, room service and free WiFi.At the hotel, rooms include a desk, a flat-screen TV, a private bathroom, bed linen and towels. Every room includes a safety deposit box, while certain rooms have a balcony and others also boast garden views. The rooms will provide guests with a wardrobe and a kettle.A buffet, à la carte or continental breakfast can be enjoyed at the property.Guests can enjoy a lounge during their stay.</description>
+            <image>images/zenturia.jfif</image>
+            <reviews>
+                <review>
+                    <alias>SENTI</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Zeny</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+
+           <restaurant> 
+             <name>La Concha Extension</name>
+            <location>Brgy. Malusak,Boac</location>
+            <description>Step into our elegantly designed space, adorned with lush greenery, cascading vines, and soft lighting, creating a warm and inviting atmosphere. Whether you're seeking an intimate dinner for two, a gathering with friends, or a memorable celebration, our restaurant offers the perfect setting.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/laconcha.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Food Court</name>
+            <location>Brgy. Tanza,Boac</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/foodcourt.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Uncle Bhougs</name>
+            <location>Delmundo St,Boac</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/uncle.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>10YO cafe</name>
+            <location>Balaring,Boac</location>
+            <description>Indulge in our carefully crafted coffee creations, expertly prepared by our skilled baristas. We source only the finest beans from around the world, ensuring each cup is a perfect balance of flavor and richness. From classic espresso-based beverages to specialty pour-over brews, our coffee menu caters to both the purists and the adventurous.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/ten.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Streetwise Grill and  cafe</name>
+            <location>Amoingon,Boac</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/cr.jpg</image>
+        </restaurant>
+    </municipality>
+    <municipality id="Gasan">
+        <place>
+            <name>Luxor Resort and Restaurant</name>
+            <location>Brgy.Pangi,Gasan, Marinduque</location>
+            <description>The hotel provides convenient services such as a 24-hour front desk, airport transfers, room service, and complimentary WiFi. Each room is equipped with a desk, flat-screen TV, private bathroom, bed linen, and towels. Guests can also find a safety deposit box in every room, while some rooms feature a balcony and garden views. Additional amenities include a wardrobe and kettle. Guests can enjoy a buffet, à la carte, or continental breakfast at the property. The nearest airport, Marinduque Airport, is located 6 km away from the hotel.</description>
+            <image>images/street.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Psych</alias>
+                    <rate>3 stars</rate>
+                    <comment>Good</comment>
+                </review>
+                <review>
+                    <alias>ZYRELLE</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+            <name>Spencer’s Transient Inn</name>
+            <location>Masiga,Gasan</location>
+            <description>This property offers room service and also has a restaurant and a terrace to greet guests. It provides a year-round outdoor pool, complimentary WiFi, and free private parking. All rooms are equipped with air conditioning, a desk, and a flat-screen TV. Some hotel units feature a balcony. Each room includes bed linen and towels. The accommodation serves American and Asian breakfast choices every morning.</description>
+            <image>images/cr.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Jhongs</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Jenny</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+                <name>DJ Plaza Hotel</name>
+                <location>Brgy.3 Poblacion, Gasan</location>
+                <description>This establishment offers various amenities to its guests, including room service, a restaurant, and a terrace. Additionally, it provides a year-round outdoor pool and complimentary WiFi and private parking. All the rooms are equipped with air conditioning, a desk, and a flat-screen TV. Some rooms even feature a balcony. Bed linen and towels are provided in every room. Guests can enjoy American and Asian breakfast options each morning at this accommodation.It also has a store below, so you can shop 24/7.</description>
+                <image>images/dj-plaza.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Cindy</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Casse</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+         <place>
+                <name>ARJ-Abbygail Lodging House</name>
+                <location>200 Cayetano St, Gasan, Marinduque</location>
+                <description>Various amenities to its guests, including room service, a restaurant, and a terrace are the main offer of this establishment.Pamper yourself with a spa retreat that includes a luxurious spa suite, daily spa treatments, healthy meals, and access to wellness activities such as yoga and meditation classes.</description>
+                <image>images/arj.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Honey</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Sally</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+                <name>Abby's Place Hotel</name>
+                <location>Tiguion, Gasan, Marinduque</location>
+                <description>Opt for an all-inclusive package where meals, drinks, and select activities are included in the room rate, allowing you to fully relax and enjoy your vacation without worrying about additional expenses.</description>
+                <image>images/abby.jfif</image>
+                <reviews>
+                <review>
+                    <alias>Cart</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Cris</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <restaurant> 
+             <name>El Capitan Resto Bar</name>
+            <location>Pangi,Gasan</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/elcapitan.jfif</image>
+        </restaurant>
+          <restaurant> 
+             <name>Marigold Kitchenette</name>
+            <location>Bagumbayan,Gasan</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/marigold.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Amarda</name>
+            <location>Poblacion,Gasan</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/amarda.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>MonsanBrew</name>
+            <location>Poblacion,Gasan</location>
+            <description>Indulge in our carefully crafted coffee creations, expertly prepared by our skilled baristas. We source only the finest beans from around the world, ensuring each cup is a perfect balance of flavor and richness. From classic espresso-based beverages to specialty pour-over brews, our coffee menu caters to both the purists and the adventurous.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/monsan.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Jb's Yard</name>
+            <location>Pangi,Gasan</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/jb.jpg</image>
+        </restaurant>
+        
+    </municipality>
+    <municipality id="Torrijos">
+        <place>
+            <name>Hotel and Spa La Salve</name>
+            <location>Brgy.Buangan,Torrijos Marinduque</location>
+            <description>Treat yourself to a relaxing staycation with special amenities such as spa credits, dining vouchers, and late check-out.</description>
+            <image>images/la salve.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Honey Bee</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Sugar Cane</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+            <name>La Casone de Flores</name>
+            <location>Brgy.Bonliw,Torrijos</location>
+            <description>Newlyweds can indulge in a romantic honeymoon package that includes a private candlelit dinner on the beach, couples' spa treatments, a bottle of champagne, and a room decorated with rose petals.</description>
+            <image>images/cosone.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Cera</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Tali</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+                <name>La Romana</name>
+                <location>Brgy. Balakbakan,Torrijos</location>
+                <description>This offers discounted rates for extended stays, with added perks like complimentary laundry service, a fully equipped kitchenette in your room, and access to the hotel's fitness center.</description>
+                <image>images/romana.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Cree</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Keshi</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+         <place>
+                <name>Rendezvous Beach Resort</name>
+                <location>  White Beach, Torrijos</location>
+                <description>Its offers includes combining your accommodation with exciting local activities such as guided city tours, tickets to popular attractions, or even a round of golf at a nearby course, all included in a discounted package.</description>
+                <image>images/rendesvous.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Trish</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Mich</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <restaurant> 
+             <name>Maria's Cafe</name>
+            <location>Poblacion,Torrijos</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/maria.jpg</image>
+        </restaurant>
+          <restaurant> 
+             <name>Minggoy's Ming-Sarap Talaga</name>
+            <location>Poblacion,Torrijos</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/minggoy.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Tabag's Place</name>
+            <location>Malibago,Torrijos</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/tabag.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Villa,Briones</name>
+            <location>Buangan,Torrijos</location>
+            <description>Indulge in our carefully crafted coffee creations, expertly prepared by our skilled baristas. We source only the finest beans from around the world, ensuring each cup is a perfect balance of flavor and richness. From classic espresso-based beverages to specialty pour-over brews, our coffee menu caters to both the purists and the adventurous.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/briones.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Kamayan sa Hardin</name>
+            <location>Buangan,Torrijo</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/kamayan.jpg</image>
+        </restaurant>
+        
+    </municipality>
+     <municipality id="Buenavista">
+        <place>
+            <name>Bellaroca Island Resort</name>
+            <location>Lipata-Dampula-Tigwi Rd,Buenavista</location>
+            <description>Enjoy a discounted rate on a room along with complimentary breakfast and access to the hotel's spa facilities.Book a two-night stay over the weekend and receive a complimentary upgrade to a suite, late check-out, and a bottle of champagne upon arrival.</description>
+            <image>images/bellaroca.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Cita</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Pany</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+            <name>Curba Farm Resort</name>
+            <location>Brgy.Uno,Buenavista</location>
+            <description>Enjoy a comfortable room and a delicious breakfast each morning during your stay.</description>
+            <image>images/curba.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Cindy</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Arla</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+                <name>Marinduque Hotspring</name>
+                <location>Brgy. Malbog,Buenavista</location>
+                <description>Treat yourself to a relaxing staycation with special amenities such as spa credits, dining vouchers, and late check-out.</description>
+                <image>images/hotspring.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Cree</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Keshi</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+         <place>
+                <name>Elephant Island View</name>
+                <location>  Lipata-Dampula-Tigwi RD,Buenavista</location>
+                <description>Its offers includes combining your accommodation with exciting local activities such as guided city tours, tickets to popular attractions, or even a round of golf at a nearby course, all included in a discounted package.</description>
+                <image>images/elephant.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Trish</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Mich</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+          <restaurant> 
+             <name>Curba Grill</name>
+            <location>Poblacion,Buenavista</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/grill.jpg</image>
+        </restaurant>
+          <restaurant> 
+             <name>Green Crib</name>
+            <location>Poblacion,Buenavista</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/crib.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>The Pizza Shop</name>
+            <location>Lipata,Buenavista</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/pizza.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Amber Pares Mami</name>
+            <location>Bagtingon, Buenavista</location>
+            <description>Indulge in our carefully crafted coffee creations, expertly prepared by our skilled baristas. We source only the finest beans from around the world, ensuring each cup is a perfect balance of flavor and richness. From classic espresso-based beverages to specialty pour-over brews, our coffee menu caters to both the purists and the adventurous.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/pares.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Neighbour's Crust</name>
+            <location>Caigangan,Buenavista</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/crust.jpg</image>
+        </restaurant>
+    </municipality>
+    <municipality id="StaCruz">
+        <place>
+            <name>Villa De Arco</name>
+            <location>Brgy.Balogo, Sta Cruz</location>
+            <description>Enjoy a discounted rate on a room along with complimentary breakfast and access to the hotel's spa facilities.Embark on an exciting adventure with a package that includes activities like hiking, zip-lining, or water sports, along with accommodation.</description>
+            <image>images/dearco.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Carla</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>LASY</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+            <name>Oramismo Hotel</name>
+            <location>Brgy.Banahaw</location>
+            <description>Make your business trip more convenient with a package that offers amenities such as a dedicated workspace, complimentary breakfast, and access to meeting rooms.Enjoy a comfortable room and a delicious breakfast each morning during your stay.</description>
+            <image>images/oramismo.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Cindy</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Arla</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+                <name>DeWEY Hotel</name>
+                <location>Brgy.Dolores,StaCruz</location>
+                <description>Treat yourself to a relaxing staycation with special amenities such as spa credits, dining vouchers, and late check-out.Golf enthusiasts can enjoy a package that includes accommodation, green fees, golf cart rental, and access to exclusive golf facilities.</description>
+                <image>images/dewey.jpg</image>
+                <reviews>
+                <review>
+                    <alias>CreeLA</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Keshia</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+         <place>
+                <name>Rico's Inn</name>
+                <location> Tagum</location>
+                <description>Create lasting memories with your family by booking a package that includes kid-friendly activities, meals, and access to recreational facilities.Its offers includes combining your accommodation with exciting local activities such as guided city tours, tickets to popular attractions, or even a round of golf at a nearby course, all included in a discounted package.</description>
+                <image>images/cr.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Trish</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Mich</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <restaurant> 
+             <name>Rico's Inn</name>
+            <location>Tagum,StaCruz</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/rico.jpg</image>
+        </restaurant>
+          <restaurant> 
+             <name>Hot Chick Boy</name>
+            <location>Dolores,StaCruz</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/hotchick.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>R Centro Resto</name>
+            <location>Banahaw,StaCruz</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/centro.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>V Dine</name>
+            <location>Matalaba, Sta,Cruz</location>
+            <description>Indulge in our carefully crafted coffee creations, expertly prepared by our skilled baristas. We source only the finest beans from around the world, ensuring each cup is a perfect balance of flavor and richness. From classic espresso-based beverages to specialty pour-over brews, our coffee menu caters to both the purists and the adventurous.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/vdine.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Sikatuna</name>
+            <location>Masaguisi,Sta Cruz</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/sikatuna.jpg</image>
+        </restaurant>
+    </municipality>
+     <municipality id="Mogpog">
+        <place>
+            <name>Ulong Bay Beach Resort</name>
+            <location>Sitio Ulong,Mogpog, Marinduque</location>
+            <description>The hotel provides convenient services such as a 24-hour front desk, airport transfers, room service, and complimentary WiFi. Each room is equipped with a desk, flat-screen TV, private bathroom, bed linen, and towels. Guests can also find a safety deposit box in every room, while some rooms feature a balcony and garden views. Additional amenities include a wardrobe and kettle. Rejuvenate your mind and body with a wellness package that includes yoga classes, spa treatments, healthy meals, and mindfulness sessions.</description>
+            <image>images/ulong.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Psych</alias>
+                    <rate>3 stars</rate>
+                    <comment>Good</comment>
+                </review>
+                <review>
+                    <alias>ZYRELLE</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+            <name>HillTop Hotel</name>
+            <location>Mataas na Bayan,Mogpog</location>
+            <description>This property offers room service and also has a restaurant and a terrace to greet guests. Immerse yourself in the local culture with a package that includes guided tours, tickets to cultural events, and authentic dining experiences.</description>
+            <image>images/hilltop.jpg</image>
+            <reviews>
+                <review>
+                    <alias>Jhongs</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Jenny</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+                <name>Family Beach Resort</name>
+                <location>Ulong Bay,Mogpog</location>
+                <description>Create lasting memories with your family by booking a package that includes kid-friendly activities, meals, and access to recreational facilities.This establishment offers various amenities to its guests, including room service, a restaurant, and a terrace. Additionally, it provides a year-round outdoor pool and complimentary WiFi and private parking. All the rooms are equipped with air conditioning, a desk, and a flat-screen TV. Some rooms even feature a balcony. Bed linen and towels are provided in every room. Guests can enjoy American and Asian breakfast options each morning at this accommodation.It also has a store below, so you can shop 24/7.</description>
+                <image>images/family.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Cindy</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Casse</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+         <place>
+                <name>Guisian Cove Resort</name>
+                <location>Guisian Road Mogpog Marinduque</location>
+                <description>Various amenities to its guests, including room service, a restaurant, and a terrace are the main offer of this establishment.Rejuvenate your mind and body with a wellness package that includes yoga classes, spa treatments, healthy meals, and mindfulness sessions.</description>
+                <image>images/cr.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Honey</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Sally</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <place>
+                <name>Sayao Free Beach</name>
+                <location>Sayao,Mogpog, Marinduque</location>
+                <description>Opt for an all-inclusive package where meals, drinks, and select activities are included in the room rate, allowing you to fully relax and enjoy your vacation without worrying about additional expenses.</description>
+                <image>images/sayao.jpg</image>
+                <reviews>
+                <review>
+                    <alias>Cart</alias>
+                    <rate>5 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+                <review>
+                    <alias>Cris</alias>
+                    <rate>4 stars</rate>
+                    <comment>Superb</comment>
+                </review>
+            </reviews>
+        </place>
+        <restaurant> 
+             <name>Sitio Cafe</name>
+            <location>Gitnang Bayan,Mogpog</location>
+            <description>Sit back and relax in our cozy seating area, where natural light streams in through large windows, creating a cheerful and inviting space. Whether you're seeking a quiet corner to work or catching up with friends, our cafe provides a comfortable environment that encourages both productivity and relaxation.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/sitio.jpg</image>
+        </restaurant>
+          <restaurant> 
+             <name>Villa Negro</name>
+            <location>Guisian,Mogpog</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/negro.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Poblacion Pares atbp</name>
+            <location>Ppoblacion Mogpog</location>
+            <description>Indulge in our carefully curated menu, where each dish is a masterpiece of taste and presentation. From succulent grilled seafood to tender prime cuts of meat, our chefs skillfully blend culinary traditions to create unique flavor profiles that will tantalize your palate. Be sure to try our signature dish, the Garden Delight, featuring locally sourced ingredients bursting with freshness.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/pobla.jpg</image>
+        </restaurant>
+        <restaurant> 
+             <name>Sarah's Burger</name>
+            <location>Donna AUrora,Mogpog</location>
+            <description>Indulge in our carefully crafted coffee creations, expertly prepared by our skilled baristas. We source only the finest beans from around the world, ensuring each cup is a perfect balance of flavor and richness. From classic espresso-based beverages to specialty pour-over brews, our coffee menu caters to both the purists and the adventurous.</description>
+            <duration>8:00am-6:30PM</duration>
+            <image>images/sara.jpg</image>
+        </restaurant>
+       
+        
+    </municipality>
+
+</places>

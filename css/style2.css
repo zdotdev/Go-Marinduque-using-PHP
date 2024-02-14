@@ -1,0 +1,293 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(image/background2.jpg);
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+    box-sizing: border-box;
+    margin-left: 0px;
+    margin-right: 0;
+}
+.front{
+    width: 100%;
+    height: 40vh;
+    background-image: url(image/beachbg2.png);
+    background-position: center;
+    position: absolute;
+    background-size: cover;
+    z-index: 3;
+    top: 60%;
+    box-sizing: border-box;
+    margin-left: 0px;
+    margin-right: 0;
+}
+.navbar{
+    height: 12%;
+    display: flex;
+    align-items: center;
+    
+}
+.logo{
+    width: 100px;
+    cursor: pointer;
+    margin-right: 40px;
+    position: absolute;
+    left: 40px;
+    top: 0px;
+}
+.menu-icon{
+    width: 20px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 40px;
+    right: 40px;
+    top: 28px;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+    position: absolute;
+    right: 110px;
+}
+nav ul li a{
+    position:relative;
+    right: 10px;
+    bottom: 30px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+.card{
+    background-position: center;
+    position: absolute;
+    background-size: cover;
+    z-index: 2;
+    top: 60%;
+    box-sizing: border-box;
+    transition: transform .5s;
+}
+
+.card:hover{
+    transform: translateY(-30px);
+}
+
+h5{
+    color: #fff;
+    font-size: 40px;
+}
+
+h1{
+    color: #fff;
+    font-size: 100px;
+    position: absolute;
+    z-index: 4;
+    bottom: 650px;
+    left: 100px;
+}
+p{
+    color: #fff;
+    font-size: 20px;
+    position: absolute;
+    z-index: 4;
+    bottom: 650px;
+    left: 100px;
+}
+.line{
+    width: 100%;
+    height: 1px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    background-color: #b1b1b1;
+    position: absolute;
+}
+.contact:after{
+    content: "";
+    position: absolute;
+    background-color: #dfa4629f;
+    height: 8px;
+    width: 0;
+    left: -10px;
+    bottom: 25px;
+    transition: .3s;
+}
+.contact:hover{
+    color: #dfa462;
+}
+.contact:hover:after{
+    width: 100%;
+}
+
+.card1{
+    width: 300px;
+    height: 650px;
+    left: 928px;
+    top: 210px;
+    background-image: url(image/sta.\ cruz.jpg);
+}
+.card2{
+    width: 300px;
+    height: 550px;
+    left: 1228px;
+    top: 310px;
+    background-image: url(image/buenavista.jpg);
+}
+.card3{
+    width: 300px;
+    height: 650px;
+    left: 1528px;
+    top: 210px;
+    background-image: url(image/sta.\ cruz.jpg);
+}
+
+
+
+.card1-2{
+    width: 300px;
+    height: 650px;
+    left: 968px;
+    top: 210px;
+    background-image: url(image/sta.\ cruz.jpg);
+}
+.card2-2{
+    width: 300px;
+    height: 550px;
+    left: 1268px;
+    top: 310px;
+    background-image: url(image/buenavista.jpg);
+}
+.card1-3{
+    width: 300px;
+    height: 650px;
+    left: 1168px;
+    top: 210px;
+    background-image: url(image/sta.\ cruz.jpg);
+}
+
+
+
+
+.card1-91{
+    width: 300px;
+    height: 650px;
+    left: 1168px;
+    top: 210px;
+    background-image: url(image/poctoy0.jpg);
+}
+
+.card1-81{
+    width: 300px;
+    height: 650px;
+    left: 968px;
+    top: 210px;
+    background-image: url(image/cathedral0.jpg);
+}
+.card2-82{
+    width: 300px;
+    height: 550px;
+    left: 1268px;
+    top: 310px;
+    background-image: url(image/baliis0.jpg);
+}
+
+
+.card1-71{
+    width: 300px;
+    height: 650px;
+    left: 928px;
+    top: 210px;
+    background-image: url(image/panuluyan4.jpg);
+}
+.card2-72{
+    width: 300px;
+    height: 550px;
+    left: 1228px;
+    top: 310px;
+    background-image: url(image/maniwaya3.jpg);
+}
+.card3-73{
+    width: 300px;
+    height: 650px;
+    left: 1528px;
+    top: 210px;
+    background-image: url(image/hakupan3.jpg);
+}
+
+.card1-61{
+    width: 300px;
+    height: 650px;
+    left: 928px;
+    top: 210px;
+    background-image: url(image/paadjao0.jpg);
+}
+.card2-62{
+    width: 300px;
+    height: 550px;
+    left: 1228px;
+    top: 310px;
+    background-image: url(image/luzondatum1.jpg);
+}
+.card3-63{
+    width: 300px;
+    height: 650px;
+    left: 1528px;
+    top: 210px;
+    background-image: url(image/balanacancove0.jpg);
+}
+
+.card1-51{
+    width: 300px;
+    height: 650px;
+    left: 928px;
+    top: 210px;
+    background-image: url(image/gaspar0.jpg);
+}
+.card2-52{
+    width: 300px;
+    height: 550px;
+    left: 1228px;
+    top: 310px;
+    background-image: url(image/saintjoseph1.jpg);
+}
+.card3-53{
+    width: 300px;
+    height: 650px;
+    left: 1528px;
+    top: 210px;
+    background-image: url(image/reyes3.jpg);
+}
+
+.card1-41{
+    width: 300px;
+    height: 650px;
+    left: 928px;
+    top: 210px;
+    background-image: url(image/haynon1.jpg);
+}
+.card2-42{
+    width: 300px;
+    height: 550px;
+    left: 1228px;
+    top: 310px;
+    background-image: url(image/malindig1.jpg);
+}
+.card3-43{
+    width: 300px;
+    height: 650px;
+    left: 1528px;
+    top: 210px;
+    background-image: url(image/wildlife0.jpg);
+}

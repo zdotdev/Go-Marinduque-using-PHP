@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    width: 100%;
+    height: 270vh;
+    background-image: url(image/background3.jpg);
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+    box-sizing: border-box;
+    margin-left: 0px;
+    margin-right: 0;
+}
+
+.navbar{
+    height: 12%;
+    display: flex;
+    align-items: center;
+    
+}
+.logo{
+    width: 100px;
+    cursor: pointer;
+    margin-right: 40px;
+    position: absolute;
+    left: 40px;
+    top: 0px;
+}
+.menu-icon{
+    width: 20px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 40px;
+    right: 40px;
+    top: 28px;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+    position: absolute;
+    right: 110px;
+}
+nav ul li a{
+    position:relative;
+    right: 10px;
+    bottom: 30px;
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+}
+.card{
+    background-position: center;
+    position: absolute;
+    background-size: cover;
+    z-index: 2;
+    top: 60%;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+
+
+
+.l0{
+    color: #ffffff;
+    font-size: 150px;
+    position: absolute;
+    z-index: 4;
+    bottom: 550px;
+    left: 200px;
+    text-align: center;
+}
+.l1{
+    color: #000;
+    font-size: 20px;
+    position: absolute;
+    z-index: 4;
+    bottom: 340px;
+    left: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+.l2{
+    color: #000;
+    font-size: 20px;
+    position: absolute;
+    z-index: 4;
+    bottom: -250px;
+    left: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+.l3{
+    color: #000;
+    font-size: 20px;
+    position: absolute;
+    z-index: 4;
+    bottom: -840px;
+    left: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+.l3-1{
+    color: #000;
+    font-size: 20px;
+    position: absolute;
+    z-index: 4;
+    bottom: -1410px;
+    left: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+.l3-2{
+    color: #000;
+    font-size: 20px;
+    position: absolute;
+    z-index: 4;
+    bottom: -2155px;
+    left: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+.l3-3{
+    color: #000;
+    font-size: 20px;
+    position: absolute;
+    z-index: 4;
+    bottom: -2740px;
+    left: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+.l4{
+    color: #000;
+    font-size: 20px;
+    position: absolute;
+    z-index: 4;
+    bottom: -1580px;
+    left: 80px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+}
+
+.do{
+    color: #000000;
+    font-size: 50px;
+    position: absolute;
+    z-index: 4;
+    bottom: -950px;
+    left: 200px;
+    text-align: center;
+}
+
+.line{
+    width: 100%;
+    height: 1px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    background-color: #b1b1b1;
+    position: absolute;
+}
+.contact{
+    top: 58px;
+}
+.contact:after{
+    content: "";
+    position: absolute;
+    background-color: #dfa4629f;
+    height: 8px;
+    width: 0;
+    left: -10px;
+    bottom: 25px;
+    transition: .3s;
+}
+.contact:hover{
+    color: #dfa462;
+}
+.contact:hover:after{
+    width: 100%;
+}
+
+.card1{
+    background-image: url(image/maniwaya0.jpg);
+    position: absolute;
+    border-radius: 0px;
+    width: 100%;
+    height: 500px;
+    left: 0px;
+    top: 70px;
+}
+.card2{
+    background-image: url(image/maniwaya1.jpg);
+    position: absolute;
+    width: 70%;
+    height: 500px;
+    left: 300px;
+    top: 640px;
+}
+.card3{
+    background-image: url(image/maniwaya2.jpg);
+    position: absolute;
+    width: 70%;
+    height: 500px;
+    left: 300px;
+    top: 1230px;
+}
+
+
+
+.card3-1{
+    background-image: url();
+    position: absolute;
+    width: 30vh;
+    height: 40vh;
+    left: 300px;
+    top: 2000px;
+}
+.card3-2{
+    background-image: url(image/maniwaya4.jpg);
+    position: absolute;
+    width: 30vh;
+    height: 40vh;
+    left: 800px;
+    top: 1940px;
+}

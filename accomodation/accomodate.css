@@ -1,0 +1,285 @@
+/*External CSS*/
+
+
+div.whole{
+	background-color:white;
+	width: 1000;
+	min-height: 500px;
+
+	
+}
+div.navigation h1{
+	padding-right:40px ;
+	color: white;
+	font-size: 60px;
+}
+div.navigation{
+	background-color: rgb(71, 70, 70);
+}
+div.navigation img{
+	width: 250px;
+	display: flex;
+}
+.navigation ul {
+    display: flex; /* Display the list items in a flex container */
+    align-items: center; 
+}
+
+.navigation .logo {
+    width: 250px;
+    margin-right: 10px; 
+	padding-right: 40px;
+}
+
+
+
+div.navigation ul li {
+	list-style-type:none;
+	display: inline-block;
+	
+}
+div.navigation ul li a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Trebuchet MS';
+	font-size: 30px;
+	margin-right: 50px;
+}
+.search input[type="text"] {
+    
+    background-color: whitesmoke;
+    color: grey;
+    padding: 10px 20px; 
+    font-size: 16px; 
+	position: absolute;
+            top: 85px;
+            right: 20px;
+}
+.search input[type="submit"] {
+    
+    background-color: blue;
+    color: white;
+    padding: 10px 20px; 
+    font-size: 16px; 
+	position: absolute;
+            top: 85px;
+            right: 20px;
+}
+.check input[type="submit"] {
+    
+    background-color: gray;
+    color: white;
+    padding: 10px 20px; 
+    font-size: 16px; 
+	margin-left: 10PX;
+}
+div.navigation ul li img{
+	width: 40px;
+}
+div.navigation ul li a.active{
+	color: #552804;
+}
+div.navigation ul li a:hover{
+	color:#796f67
+}
+div.main{
+	min-height: 800px;
+	padding: 10px;
+	margin: 0px;
+	
+}
+div.left-side{
+	width: 300px;
+	float: left;
+	border-right: #150c02;
+	margin: 20px 10px 10px 0px;
+}
+div.left-side h2{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	color: #5b3713;
+	font-size: 30px;
+	
+}
+div.left-side ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+div.left-side ul li{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	text-align:justify;
+	border-bottom: 1px solid rgb(211, 120, 41);
+	
+}
+div.left-side ul li a{
+	list-style-type: none;
+	display: block;
+	width: 100%;
+	padding: 5px 0px;
+	text-decoration: none;
+	font-family:'Trebuchet MS';
+	font-size: 15px;
+	color: grey;
+	
+}
+div.left-side ul li a img{
+	width: 100px; 
+    margin-left: 10px;
+	display:flex;
+	
+}
+div.left-side ul li a:hover{
+	color:#796f67 ;
+}
+
+div.content{
+	width:980px;
+	float: left;
+	margin: 10px ;
+	font-family: 'Times New Roman';
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	}
+
+	
+div.content h1{
+	border-bottom:3px dashed darkgoldenrod;
+	padding:0px;
+	margin-left: 10px;
+	color: #150c02;
+	font-size: 45px;
+	
+}
+div.content p{
+	text-align: justify;
+	line-height: 1.5;
+	margin: 10px;
+}
+div.content h3{
+	font-family:'Segoe UI';
+	color: #301c05;
+	margin: 10px;
+}
+div.content img{
+		width: 350px; /* Adjust the width as needed */
+		margin-left: 300px; /* Add margin to create space between image and text */
+}
+div.right-side{
+	width: 300;
+	float: right;
+	min-height: 50px;
+	margin: 10px 0px 10px 10px;
+}
+
+div.right-side ul{
+	margin: 0;
+	padding: 20px;
+
+}
+div.right-side ul li{
+	list-style-type: none;
+
+}
+div.right-side ul li img{
+	padding: 10px;
+	width: 100%;
+
+}
+
+
+div.footer {
+	text-align: center;
+	clear: both;
+	border-top: 2px dashed brown;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+div.footer ul {
+	justify-content: center;
+	align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+	
+}
+
+div.footer ul li {
+    display: inline-block;
+    
+}
+
+div.footer img{
+	width: 20px;
+}
+.rating {
+	display: inline-block;
+}
+
+.rating input {
+	display: none;
+}
+
+.rating label {
+	color: #ddd;
+	float: right;
+}
+
+.rating label:before {
+	content: '\2605';
+	font-size: 2em;
+}
+
+.rating input:checked ~ label {
+	color: #ffdd00;
+}
+
+.rating label:hover,
+.rating label:hover ~ label {
+	color: #ffdd00;
+}
+
+/* Design for the list in login */
+
+
+div.nav img{
+	width: 15vw;
+}
+
+.nav-list {
+	position:absolute;
+	top: 5vw;
+	right: 10vw;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-list li {
+    margin-right: 10px;
+    font-size: 20px;
+}
+div.forform{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 30px;
+
+}
+
+.forlogin{
+    background-color: whitesmoke;
+    color: rgb(6, 5, 5);
+    padding: 10px 20px; 
+    font-size: 16px; 
+	margin-left: 10PX;
+}
+
+
